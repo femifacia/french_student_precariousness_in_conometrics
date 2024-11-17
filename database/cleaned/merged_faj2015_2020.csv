@@ -1,4 +1,4 @@
-,Budget FAJ (en euros),Montant des aides individuelles attribuées (en euros),Nombre d'aides individuelles attribuées (2),Montant moyen de l'aide individuelle attribuée (en euros),Nombre de bénéficiaires du FAJ,Part de l'ensemble des jeunes de 20 à 24 ans vivant chez les parents en %,Population étudiante,Taux pauvreté département,Population étudiante sous le seuil de pauvreté,Loyer moyen m2 appartement,Loyer moyen m2 maison,Consommation énergétique moyenne,Niveau de vie median
+,Budget FAJ (en euros),Montant des aides individuelles attribuées (en euros),Nombre d'aides individuelles attribuées (2),Montant moyen de l'aide individuelle attribuée (en euros),Nombre de bénéficiaires du FAJ,Part de l'ensemble des jeunes de 20 à 24 ans vivant chez les parents en %,Population étudiante,Taux pauvreté département,Population étudiante sous le seuil de pauvreté,Loyer moyen m2 appartement,Loyer moyen m2 maison,Consommation énergétique moyenne (MWh),Niveau de vie median
 Ain,457200.0,252328.0,1520.0,166.01,971.0,55.59,3183.0,10.5,334.215,13.6,13.7,4.395063689979555,24030.0
 Allier,198034.0,147222.06,1397.0,105.38,778.0,40.77,3857.0,15.3,590.121,10.8,9.8,5.073961465404198,20990.0
 Ardèche,271930.93,152403.0,1203.0,126.69,694.0,53.46,1415.0,14.3,202.345,10.4,11.0,3.6967387618657255,21450.0
@@ -95,8 +95,8 @@ Alpes-Maritimes,530791.0,288813.0,2768.0,104.34,1605.0,55.64,47047.0,16.2,7621.6
 Bouches-du-Rhône,1325000.0,956863.68,3072.0,311.48,2080.0,53.69,96566.0,17.9,17285.314,15.9,15.8,3.59961889656957,22210.0
 Var,694590.0,631534.0,4832.0,130.7,2314.0,56.04,15887.0,15.3,2430.711,14.7,15.0,4.071634232674225,22320.0
 Vaucluse,765479.56,480293.99,1887.0,254.53,1309.0,53.85,10566.0,19.5,2060.37,12.3,12.5,4.072030184371153,20640.0
-Guadeloupe,380267.34,344722.03,1661.0,207.54,616.0,70.9,9603.0,,0.0,12.0,13.0,1.8835149351208027,18000.0
+Guadeloupe,380267.34,344722.03,1661.0,207.54,616.0,70.9,9603.0,34.5,3313.0,12.0,13.0,1.8835149351208027,18000.0
 Martinique,355000.0,,704.0,,704.0,73.64,8628.0,26.7,2303.676,12.0,13.0,1.6881780192400857,19200.0
-Guyane,255074.04,234381.0,490.0,478.33,490.0,50.97,4250.0,,0.0,13.0,14.0,1.1251099872690988,11000.0
+Guyane,255074.04,234381.0,490.0,478.33,490.0,50.97,4250.0,53.0,2252.0,13.0,14.0,1.1251099872690988,11000.0
 La Réunion,400000.0,211471.15,1152.0,183.57,1019.0,60.64,21426.0,35.6,7627.656,10.0,12.0,1.4740968307798903,16520.0
-Mayotte,,,,,,,1655.0,,0.0,13.0,13.0,0.6663533722327099,9000.0
+Mayotte,,,,,,,1655.0,77.0,1274.0,13.0,13.0,0.6663533722327099,9000.0
